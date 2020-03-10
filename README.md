@@ -3,7 +3,7 @@
 <H4 align="center">Informasi data terbaru mengenai kasus Virus Corona di seluruh dunia, Info ini di ambil dari api yang telah di sediakan oleh Ethical Hacker Indonesia (kawalcorona.com)</H4>
 
 <p align="center">
- <img src="https://img.shields.io/github/issues/norahmad/coronaupdate" alt=Issues">
+ <img src="https://img.shields.io/github/issues/norahmad/coronaupdate" alt="Issues">
  <img src="https://img.shields.io/github/forks/norahmad/coronaupdate" alt="Forks">
  <img src="https://img.shields.io/github/stars/norahmad/coronaupdate" alt="Star">
  <img src="https://img.shields.io/github/license/norahmad/coronaupdate" alt="License"> <br>
