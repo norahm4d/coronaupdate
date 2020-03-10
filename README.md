@@ -15,7 +15,7 @@ Made with ❤️ by <a href="https://github.com/norahmad">Nor Ahmad</a>
 </p>
  <h4 align="center">Tampilan</h4> <br>
  <p align="center">
- <img src="https://i.ibb.co/DgGfMLx/carbon-2.png" alt="Coronavirus Live Data" style="width:50% !important">
+ <img src="https://i.ibb.co/DgGfMLx/carbon-2.png" alt="Coronavirus Live Data" width="70%">
  </p>
  <h4 align="center">( Thanks! )</h4>
 
